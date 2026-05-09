@@ -7,9 +7,9 @@ from requests.adapters import HTTPAdapter
 
 # === CONFIGURATION ===
 REQUIRED_CHANNEL = '@mrinxdildos'
-OWNER_URL = "https://t.me/MrinMoYxCB"
+OWNER_URL = "https://t.me/M_o_y_zzz"
 CHANNEL_URL = "https://t.me/mrinxdildos"
-BOT_LIST = "https://t.me/MRiNxDiLDOS/92"
+BOT_LIST = "https://t.me/MRiNxDiLDOS/3"
 LOG_FILE = 'user_prompts.log'
 
 OWNER_IDS = {2007860433}
